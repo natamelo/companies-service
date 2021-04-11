@@ -1,0 +1,19 @@
+{
+  "name": "companies-service",
+  "version": "1.0.0",
+  "description": "Companies Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natã Melo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "sqlite-sync": "^0.3.9",
+    "sqlite3": "^5.0.2"
+  }
+}
